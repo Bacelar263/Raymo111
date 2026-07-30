@@ -95,11 +95,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ternera/github-email-finder/pull/3) in [ternera/github-email-finder](https://github.com/ternera/github-email-finder)
-2. 💪 Opened PR [#3](https://github.com/ternera/github-email-finder/pull/3) in [ternera/github-email-finder](https://github.com/ternera/github-email-finder)
-3. ❗ Opened issue [#2](https://github.com/ternera/github-email-finder/issues/2) in [ternera/github-email-finder](https://github.com/ternera/github-email-finder)
-4. ❗ Opened issue [#1](https://github.com/ternera/github-email-finder/issues/1) in [ternera/github-email-finder](https://github.com/ternera/github-email-finder)
-5. ❌ Closed PR [#198](https://github.com/Aorimn/dislocker/pull/198) in [Aorimn/dislocker](https://github.com/Aorimn/dislocker)
+1. 🗣 Commented on [#1128](https://github.com/boltgolt/howdy/pull/1128#issuecomment-5127086723) in [boltgolt/howdy](https://github.com/boltgolt/howdy)
+2. 🎉 Merged PR [#3](https://github.com/ternera/github-email-finder/pull/3) in [ternera/github-email-finder](https://github.com/ternera/github-email-finder)
+3. 💪 Opened PR [#3](https://github.com/ternera/github-email-finder/pull/3) in [ternera/github-email-finder](https://github.com/ternera/github-email-finder)
+4. ❗ Opened issue [#2](https://github.com/ternera/github-email-finder/issues/2) in [ternera/github-email-finder](https://github.com/ternera/github-email-finder)
+5. ❗ Opened issue [#1](https://github.com/ternera/github-email-finder/issues/1) in [ternera/github-email-finder](https://github.com/ternera/github-email-finder)
 <!--END_SECTION:activity-->
 
 <!--
