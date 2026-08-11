@@ -95,11 +95,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1128](https://github.com/boltgolt/howdy/pull/1128#issuecomment-5127086723) in [boltgolt/howdy](https://github.com/boltgolt/howdy)
-2. 🎉 Merged PR [#3](https://github.com/ternera/github-email-finder/pull/3) in [ternera/github-email-finder](https://github.com/ternera/github-email-finder)
-3. 💪 Opened PR [#3](https://github.com/ternera/github-email-finder/pull/3) in [ternera/github-email-finder](https://github.com/ternera/github-email-finder)
-4. ❗ Opened issue [#2](https://github.com/ternera/github-email-finder/issues/2) in [ternera/github-email-finder](https://github.com/ternera/github-email-finder)
-5. ❗ Opened issue [#1](https://github.com/ternera/github-email-finder/issues/1) in [ternera/github-email-finder](https://github.com/ternera/github-email-finder)
+1. 💪 Opened PR [#160](https://github.com/CharaChorder/nexus/pull/160) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+2. 🗣 Commented on [#1](https://github.com/slendidev/libvinput.py/pull/1#issuecomment-5248756030) in [slendidev/libvinput.py](https://github.com/slendidev/libvinput.py)
+3. 💪 Opened PR [#1](https://github.com/slendidev/libvinput.py/pull/1) in [slendidev/libvinput.py](https://github.com/slendidev/libvinput.py)
+4. 💪 Opened PR [#3](https://github.com/slendidev/libvinput/pull/3) in [slendidev/libvinput](https://github.com/slendidev/libvinput)
+5. 🗣 Commented on [#1128](https://github.com/boltgolt/howdy/pull/1128#issuecomment-5127086723) in [boltgolt/howdy](https://github.com/boltgolt/howdy)
 <!--END_SECTION:activity-->
 
 <!--
